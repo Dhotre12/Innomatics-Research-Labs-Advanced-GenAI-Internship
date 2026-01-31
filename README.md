@@ -1,1 +1,1 @@
-# Innomatics-Research-Labs-Advanced-GenAI-Internship
+# Innomatics Research Labs | Advanced GenAI Internship | Entrance Test
